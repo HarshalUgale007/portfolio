@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, MYSQL,
+#### Technical Skills: Python, Flask, Django, MYSQL,Machine Learnig, Tableau, Power BI, MS Office
 
 ## Education
 - MCA | Alard Institute of Managementt Science,Pune(SPPU)  (_2021 to 2023_)	       		
