@@ -14,16 +14,13 @@
 
 ## Projects
 ### Emotion Detection using Machine Learning
-[Publication](#)
+
 Involves leveraging advanced algorithms like Natural Language Processing (NLP), Computer Vision, and Signal Processing to interpret human emotions from different data types. This encompasses understanding and implementing ML algorithms, preprocessing data, extracting relevant features, and evaluating model performance. Through this, individuals gain insights into emotional cues in human communication, enabling tailored responses and improved user experiences. Emphasis is placed on ethical considerations, ensuring responsible use of this technology in fields such as customer service and mental health care. Mastering Emotion Detection with ML equips individuals with a sought-after skill set applicable across diverse industries, addressing the growing need for AI-driven solutions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Searching Over Encrypted Data on Cloud
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 - In this project, I contributed to building a sentiment analysis model using new techniques. 
 - I handled data collection, preprocessing and optimized the model for accuracy.
 - It was valuable experience working with API and GUI This experience enhanced my skills in data preprocessing,model evaluation Glimes and Python.
 - I supported my project partner by understanding their challenges and offering intelligent solutions, fostering a collaborative and effective working relationship.
-![Bike Study](/assets/img/bike_study.jpeg)
